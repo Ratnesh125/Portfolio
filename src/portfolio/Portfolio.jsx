@@ -124,7 +124,7 @@ function Portfolio() {
         </div>
       </div>
       <div>
-        <div className="max-h-screen sm:min-h-screen">
+        <div className="max-h-screen">
           <div className="flex items-center justify-center text-4xl pt-14 pb-4 font-sans font-semibold">CONTACT</div>
           <div className="flex items-center justify-center flex-col">
             <span className="bg-slate-400 h-0.5 w-32 flex items-center justify-center">
